@@ -1,0 +1,19 @@
+OrderID,OrderDate,Customer,Region,Product,SalesChannel,Quantity,Revenue,Cost
+1001,1/5/2024,Acme Corp,East,Widget A,Online,10,2500,1800
+1002,1/6/2024,Acme Corp,East,Widget B,Online,5,1500,900
+1003,1/6/2024,Initech,North,Widget A,Retail,15,5800,1500
+1004,1/7/2024,Globex Inc,West,Widget A,Retail,7,1750,1260
+1005,1/8/2024,Initech,South,Widget C,Online,3,900,600
+1006,1/8/2024,Umbrella Corp,East,Widget D,Online,5,1100,800
+1007,1/8/2024,Umbrella Corp,South,Widget C,Online,6,1200,900
+1008,1/9/2024,Initech,South,Widget B,Retail,8,2400,1600
+1009,1/10/2024,Umbrella Corp,North,Widget A,Online,12,3000,2160
+1010,1/11/2024,Globex Inc,West,Widget C,Retail,4,1200,800
+1011,1/12/2024,Acme Corp,East,Widget A,Retail,6,1500,1080
+1012,1/13/2024,Umbrella Corp,North,Widget B,Online,9,2700,1890
+1013,1/14/2024,Initech,South,Widget A,Online,11,2750,1980
+1014,2/10/2024,Umbrella Corp,North,Widget A,Online,12,3000,2160
+1015,2/11/2024,Globex Inc,West,Widget C,Retail,4,1200,800
+1016,2/12/2024,Acme Corp,East,Widget A,Retail,6,1500,1080
+1017,3/13/2024,Umbrella Corp,North,Widget B,Online,9,2700,1890
+1018,3/14/2024,Initech,South,Widget A,Online,11,2750,1980
